@@ -1,0 +1,3 @@
+# ---- external
+
+print("Hello world!")
